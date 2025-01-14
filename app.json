@@ -2,7 +2,7 @@
   "expo": {
     "extra": {
       "eas": {
-        "projectId": "0fcd86b4-f8f9-4674-bcc1-06c3821b80e5"
+        "projectId": "638e5b5a-acbe-416b-bb80-00d5eca277f6"
       }
     },
     "android": {
@@ -10,12 +10,6 @@
     },
     "ios": {
       "bundleIdentifier": "com.byk04712.stickersmash"
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/0fcd86b4-f8f9-4674-bcc1-06c3821b80e5"
     }
   }
 }
